@@ -1,0 +1,5653 @@
+[
+  {
+    "name": "Bulbasaur",
+    "price": 0,
+    "level": 15,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Ivysaur",
+    "price": 0,
+    "required": {
+      "trainerLv": 100
+    }
+  },
+  {
+    "name": "Venusaur",
+    "price": 0,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Charmander",
+    "price": 0,
+    "level": 15,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Charmeleon",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Charizard",
+    "price": 300,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Squirtle",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Wartortle",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Blastoise",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Caterpie",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Metapod",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Butterfree",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Weedle",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Kakuna",
+    "price": 0,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Beedrill",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Pidgey",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Pidgeotto",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Pidgeot",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Rattata",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Raticate",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Spearow",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Fearow",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Ekans",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Arbok",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Pikachu",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Raichu",
+    "price": 0,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Sandshrew",
+    "price": 0,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Sandslash",
+    "price": 0,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Nidoran♀",
+    "price": 0,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Nidorina",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Nidoqueen",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Nidoran♂",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Nidorino",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Nidoking",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Clefairy",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Clefable",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Vulpix",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Ninetales",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Jigglypuff",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Wigglytuff",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Zubat",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Golbat",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Oddish",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Gloom",
+    "price": 1000,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Vileplume",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Paras",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Parasect",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Venonat",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Venomoth",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Diglett",
+    "price": 500,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Dugtrio",
+    "price": 250,
+    "required": {
+      "trainerLv": 1
+    }
+  },
+  {
+    "name": "Meowth",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Persian",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Psyduck",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Golduck",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Mankey",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Primeape",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Growlithe",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Arcanine",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Poliwag",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Poliwhirl",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Poliwrath",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Abra",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Kadabra",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Alakazam",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Machop",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Machoke",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Machamp",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Bellsprout",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Weepinbell",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Victreebel",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Tentacool",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Tentacruel",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Geodude",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Graveler",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Golem",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Ponyta",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Rapidash",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Slowpoke",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Slowbro",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Magnemite",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Magneton",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Farfetch'd",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Doduo",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Dodrio",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Seel",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Dewgong",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Grimer",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Muk",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Shellder",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Cloyster",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Gastly",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Haunter",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Gengar",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Onix",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Drowzee",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Hypno",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Krabby",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Kingler",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Voltorb",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Electrode",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Exeggcute",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Exeggutor",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Cubone",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Marowak",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Hitmonlee",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Hitmonchan",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Lickitung",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Koffing",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Weezing",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Rhyhorn",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Rhydon",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Chansey",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Tangela",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Kangaskhan",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Horsea",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Seadra",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Goldeen",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Seaking",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Staryu",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Starmie",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Mr. Mime",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Scyther",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Jynx",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Electabuzz",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Magmar",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Pinsir",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Tauros",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Magikarp",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Gyarados",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Lapras",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Ditto",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Eevee",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Vaporeon",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Jolteon",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Flareon",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Porygon",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Omanyte",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Omastar",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Kabuto",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Kabutops",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Aerodactyl",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Snorlax",
+    "price": 2000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Articuno",
+    "price": 2000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Zapdos",
+    "price": 2000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Moltres",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Dratini",
+    "price": 500,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Dragonair",
+    "price": 1000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Dragonite",
+    "price": 2000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Mewtwo",
+    "price": 2000,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Mew",
+    "price": 250,
+    "required": {
+      "trainerLv": 10
+    }
+  },
+  {
+    "name": "Chikorita",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bayleef",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Meganium",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cyndaquil",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Quilava",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Typhlosion",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Totodile",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Croconaw",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Feraligatr",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sentret",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Furret",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Hoothoot",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Noctowl",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ledyba",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ledian",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Spinarak",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ariados",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Crobat",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Chinchou",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lanturn",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Pichu",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cleffa",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Igglybuff",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Togepi",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Togetic",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Natu",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Xatu",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mareep",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Flaaffy",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ampharos",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bellossom",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Marill",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Azumarill",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sudowoodo",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Politoed",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Hoppip",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Skiploom",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Jumpluff",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Aipom",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sunkern",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sunflora",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Yanma",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wooper",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Quagsire",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Espeon",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Umbreon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Murkrow",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Slowking",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Misdreavus",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Unown",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wobbuffet",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Girafarig",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Pineco",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Forretress",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Dunsparce",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gligar",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Steelix",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Snubbull",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Granbull",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Qwilfish",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Scizor",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shuckle",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Heracross",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sneasel",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Teddiursa",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ursaring",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Slugma",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Magcargo",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Swinub",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Piloswine",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Corsola",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Remoraid",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Octillery",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Delibird",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mantine",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Skarmory",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Houndour",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Houndoom",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Kingdra",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Phanpy",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Donphan",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Porygon2",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Stantler",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Smeargle",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Tyrogue",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Hitmontop",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Smoochum",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Elekid",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Magby",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Miltank",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Blissey",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Raikou",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Entei",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Suicune",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Larvitar",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Pupitar",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Tyranitar",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lugia",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ho-Oh",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Celebi",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Treecko",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Grovyle",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sceptile",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Torchic",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Combusken",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Blaziken",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mudkip",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Marshtomp",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Swampert",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Poochyena",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mightyena",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Zigzagoon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Linoone",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wurmple",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Silcoon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Beautifly",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cascoon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Dustox",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lotad",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lombre",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ludicolo",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Seedot",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Nuzleaf",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shiftry",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Taillow",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Swellow",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wingull",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Pelipper",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ralts",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Kirlia",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gardevoir",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Surskit",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Masquerain",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shroomish",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Breloom",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Slakoth",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Vigoroth",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Slaking",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Nincada",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ninjask",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shedinja",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Whismur",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Loudred",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Exploud",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Makuhita",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Hariyama",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Azurill",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Nosepass",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Skitty",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Delcatty",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sableye",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mawile",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Aron",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lairon",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Aggron",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Meditite",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Medicham",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Electrike",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Manectric",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Plusle",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Minun",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Volbeat",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Illumise",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Roselia",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gulpin",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Swalot",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Carvanha",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sharpedo",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wailmer",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wailord",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Numel",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Camerupt",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Torkoal",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Spoink",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Grumpig",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Spinda",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Trapinch",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Vibrava",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Flygon",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cacnea",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cacturne",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Swablu",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Altaria",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Zangoose",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Seviper",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lunatone",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Solrock",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Barboach",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Whiscash",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Corphish",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Crawdaunt",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Baltoy",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Claydol",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lileep",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cradily",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Anorith",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Armaldo",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Feebas",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Milotic",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Castform",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Kecleon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shuppet",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Banette",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Duskull",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Dusclops",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Tropius",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Chimecho",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Absol",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wynaut",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Snorunt",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Glalie",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Spheal",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Sealeo",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Walrein",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Clamperl",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Huntail",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gorebyss",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Relicanth",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Luvdisc",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bagon",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shelgon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Salamence",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Beldum",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Metang",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Metagross",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Regirock",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Regice",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Registeel",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Latias",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Latios",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Kyogre",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Groudon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Rayquaza",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Jirachi",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Deoxys",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Turtwig",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Grotle",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Torterra",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Chimchar",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Monferno",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Infernape",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Piplup",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Prinplup",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Empoleon",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Starly",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Staravia",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Staraptor",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bidoof",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bibarel",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Kricketot",
+    "price": 2000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Kricketune",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shinx",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Luxio",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Luxray",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Budew",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Roserade",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cranidos",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Rampardos",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shieldon",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bastiodon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Burmy",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Wormadam",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mothim",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Combee",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Vespiquen",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Pachirisu",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Buizel",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Floatzel",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cherubi",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Cherrim",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Shellos",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gastrodon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Ambipom",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Drifloon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Drifblim",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Buneary",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lopunny",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mismagius",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Honchkrow",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Glameow",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Purugly",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Chingling",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Stunky",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Skuntank",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bronzor",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bronzong",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Bonsly",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Mime Jr.",
+    "price": 1000,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Happiny",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Chatot",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Spiritomb",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gible",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Gabite",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Garchomp",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Munchlax",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Riolu",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Lucario",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Hippopotas",
+    "price": 500,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Hippowdon",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Skorupi",
+    "price": 250,
+    "required": {
+      "trainerLv": 20
+    }
+  },
+  {
+    "name": "Drapion",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Croagunk",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Toxicroak",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Carnivine",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Finneon",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Lumineon",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Mantyke",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Snover",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Abomasnow",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Weavile",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Magnezone",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Lickilicky",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Rhyperior",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tangrowth",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Electivire",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Magmortar",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Togekiss",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Yanmega",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Leafeon",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Glaceon",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gliscor",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Mamoswine",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Porygon-Z",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gallade",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Probopass",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Dusknoir",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Froslass",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Rotom",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Uxie",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Mesprit",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Azelf",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Dialga",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Palkia",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Heatran",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Regigigas",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Giratina",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cresselia",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Phione",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Manaphy",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Darkrai",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Shaymin",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Arceus",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Victini",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Snivy",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Servine",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Serperior",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tepig",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Pignite",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Emboar",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Oshawott",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Dewott",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Samurott",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Patrat",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Watchog",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Lillipup",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Herdier",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Stoutland",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Purrloin",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Liepard",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Pansage",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Simisage",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Pansear",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Simisear",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Panpour",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Simipour",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Munna",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Musharna",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Pidove",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tranquill",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Unfezant",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Blitzle",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Zebstrika",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Roggenrola",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Boldore",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gigalith",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Woobat",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Swoobat",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Drilbur",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Excadrill",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Audino",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Timburr",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gurdurr",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Conkeldurr",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tympole",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Palpitoad",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Seismitoad",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Throh",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Sawk",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Sewaddle",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Swadloon",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Leavanny",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Venipede",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Whirlipede",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Scolipede",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cottonee",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Whimsicott",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Petilil",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Lilligant",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Basculin",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Sandile",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Krokorok",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Krookodile",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Darumaka",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Darmanitan",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Maractus",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Dwebble",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Crustle",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Scraggy",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Scrafty",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Sigilyph",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Yamask",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cofagrigus",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tirtouga",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Carracosta",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Archen",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Archeops",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Trubbish",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Garbodor",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Zorua",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Zoroark",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Minccino",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cinccino",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gothita",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gothorita",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Gothitelle",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Solosis",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Duosion",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Reuniclus",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Ducklett",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Swanna",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Vanillite",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Vanillish",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Vanilluxe",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Deerling",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Sawsbuck",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Emolga",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Karrablast",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Escavalier",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Foongus",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Amoonguss",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Frillish",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Jellicent",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Alomomola",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Joltik",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Galvantula",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Ferroseed",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Ferrothorn",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Klink",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Klang",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Klinklang",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tynamo",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Eelektrik",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Eelektross",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Elgyem",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Beheeyem",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Litwick",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Lampent",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Chandelure",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Axew",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Fraxure",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Haxorus",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cubchoo",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Beartic",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cryogonal",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Shelmet",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Accelgor",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Stunfisk",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Mienfoo",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Mienshao",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Druddigon",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Golett",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Golurk",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Pawniard",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Bisharp",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Bouffalant",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Rufflet",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Braviary",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Vullaby",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Mandibuzz",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Heatmor",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Durant",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Deino",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Zweilous",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Hydreigon",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Larvesta",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Volcarona",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Cobalion",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Terrakion",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Virizion",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Tornadus",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Thundurus",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Reshiram",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Zekrom",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Landorus",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Kyurem",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Keldeo",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Meloetta",
+    "price": 250,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Genesect",
+    "price": 500,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Chespin",
+    "price": 1000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Quilladin",
+    "price": 2000,
+    "required": {
+      "trainerLv": 30
+    }
+  },
+  {
+    "name": "Chesnaught",
+    "price": 2000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Fennekin",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Braixen",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Delphox",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Froakie",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Frogadier",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Greninja",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Bunnelby",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Diggersby",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Fletchling",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Fletchinder",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Talonflame",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Scatterbug",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Spewpa",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Vivillon",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Litleo",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Pyroar",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Flabébé",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Floette",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Florges",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Skiddo",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Gogoat",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Pancham",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Pangoro",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Furfrou",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Espurr",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Meowstic",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Honedge",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Doublade",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Aegislash",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Spritzee",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Aromatisse",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Swirlix",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Slurpuff",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Inkay",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Malamar",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Binacle",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Barbaracle",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Skrelp",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Dragalge",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Clauncher",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Clawitzer",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Helioptile",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Heliolisk",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Tyrunt",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Tyrantrum",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Amaura",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Aurorus",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Sylveon",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Hawlucha",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Dedenne",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Carbink",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Goomy",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Sliggoo",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Goodra",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Klefki",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Phantump",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Trevenant",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Pumpkaboo",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Gourgeist",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Bergmite",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Avalugg",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Noibat",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Noivern",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Xerneas",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Yveltal",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Zygarde",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Diancie",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Hoopa",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Volcanion",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Rowlet",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Dartrix",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Decidueye",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Litten",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Torracat",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Incineroar",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Popplio",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Brionne",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Primarina",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Pikipek",
+    "price": 1000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Trumbeak",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Toucannon",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Yungoos",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Gumshoos",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Grubbin",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Charjabug",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Vikavolt",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Crabrawler",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Crabominable",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Oricorio",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Cutiefly",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Ribombee",
+    "price": 500,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Rockruff",
+    "price": 2000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Lycanroc",
+    "price": 2000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Wishiwashi",
+    "price": 2000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Mareanie",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Toxapex",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Mudbray",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Mudsdale",
+    "price": 2000,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Dewpider",
+    "price": 250,
+    "required": {
+      "trainerLv": 40
+    }
+  },
+  {
+    "name": "Araquanid",
+    "price": 2000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Fomantis",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Lurantis",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Morelull",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Shiinotic",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Salandit",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Salazzle",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Stufful",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Bewear",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Bounsweet",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Steenee",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Tsareena",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Comfey",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Oranguru",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Passimian",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Wimpod",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Golisopod",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Sandygast",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Palossand",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Pyukumuku",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Type: Null",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Silvally",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Minior",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Komala",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Turtonator",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Togedemaru",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Mimikyu",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Bruxish",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Drampa",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Dhelmise",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Jangmo-o",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Hakamo-o",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Kommo-o",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Tapu Koko",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Tapu Lele",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Tapu Bulu",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Tapu Fini",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Cosmog",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Cosmoem",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Solgaleo",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Lunala",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Nihilego",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Buzzwole",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Pheromosa",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Xurkitree",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Celesteela",
+    "price": 1000,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Kartana",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Guzzlord",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Necrozma",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Magearna",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Marshadow",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Poipole",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Naganadel",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Stakataka",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Blacephalon",
+    "price": 250,
+    "required": {
+      "trainerLv": 50
+    }
+  },
+  {
+    "name": "Zeraora",
+    "price": 500,
+    "required": {
+      "trainerLv": 50
+    }
+  }
+]

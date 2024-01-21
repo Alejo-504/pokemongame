@@ -1,0 +1,31 @@
+[
+    {
+        "background":{
+            "src": "article2.jpg",
+            "attachment": "fixed",
+            "size": "cover"
+        },
+        "text":{
+            "title": "Lorem ipsum dolor",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam esse repudiandae mollitia repellendus aperiam. Ipsum inventore tempora sunt sequi unde quidem fugiat facilis numquam reiciendis nobis, suscipit harum, distinctio debitis?",
+            "align":"start",
+            "theme": "dark",
+            "effect":"zoom-out"
+        }
+    },
+     {
+        "background":{
+            "src": "article1.jpg",
+            "attachment": "scroll",
+            "size": "cover"
+        },
+        "text":{
+            "title": "Lorem ipsum dolor",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam esse repudiandae mollitia repellendus aperiam. Ipsum inventore tempora sunt sequi unde quidem fugiat facilis numquam reiciendis nobis, suscipit harum, distinctio debitis?",
+            "align":"end",
+            "theme": "light",
+            "effect": "zoom-in"
+        }
+
+    }
+]

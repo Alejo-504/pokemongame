@@ -1,0 +1,14 @@
+{
+    "spanish":{
+        "signUp": "Registrarse",
+        "signIn": "Ingresar",
+        "idioms": {"es":"Español", "en":"Ingles"},
+        "lang": "Lenguajes"
+    },
+    "english":{
+        "signUp":"Sing Up",
+        "signIn":"Sing In",
+        "idioms": {"es":"Spanish", "en":"English"},
+        "lang": "Languages"
+    }
+}

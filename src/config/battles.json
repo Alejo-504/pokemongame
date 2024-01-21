@@ -1,0 +1,13 @@
+{
+  "size-pokemons": 1,
+  "nr-wild-battles": 3,
+  "show-info-enemy": false,
+  "await-enemy-attack": 2.5,
+  "await-to-start-battle": 3,
+  "await-to-change-enemy": 3,
+  "speed-attack": 0.3,
+  "production-coins": 4,
+  "production-trainer-exp": 3,
+  "confetti-victory": true,
+  "sound-background": "battle.mp3"
+}

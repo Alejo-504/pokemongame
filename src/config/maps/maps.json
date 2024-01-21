@@ -1,0 +1,69 @@
+[
+  {
+    "location": "The Pokemon Jungle ",
+    "pokemons-wild-levels": [15, 20],
+    "hidden": false,
+    "types": ["fire"],
+    "src": "selva.png",
+    "field-battle-src": "selva1.png",
+    "size": {
+      "width": "1600",
+      "height": "1024"
+    },
+    "first_position_cell": 292,
+    "collisions": [[38, 526]],
+    "includes": [
+      {
+        "name": "arbustos",
+        "cells": [[619, 946]]
+      },
+      {
+        "name": "pikachu",
+        "cells": [[761, 761]]
+      }
+    ]
+  },
+  {
+    "location": "Water Jungle ",
+    "field-battle-src": "selva1.png",
+    "types": ["water"],
+    "pokemons-wild-levels": [15, 30],
+    "src": "water.png",
+    "size": {
+      "width": "1600",
+      "height": "1024"
+    },
+    "first_position_cell": 573,
+    "collisions": [
+      [38, 526],
+      [622, 678],
+      [627, 683],
+      [784, 785]
+    ],
+    "includes": [
+      {
+        "name": "pikachu",
+        "cells": [[761, 765]]
+      },
+      {
+        "name": "pisadas-en-agua",
+        "cells": [[729, 1001]]
+      },
+      {
+        "name": "portal-sound",
+        "cells": [[539, 645]]
+      },
+      {
+        "name": "portal",
+        "cells": [
+          [538, 538],
+          [750, 750]
+        ]
+      },
+      {
+        "name": "portal-sound-2",
+        "cells": [[751, 857]]
+      }
+    ]
+  }
+]

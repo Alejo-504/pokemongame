@@ -1,0 +1,207 @@
+[
+    {
+        "name": "hardy",
+        "increased": null,
+        "decreased": null
+    },
+    {
+        "name": "bold",
+        "increased": {
+            "name": "defense"
+        },
+        "decreased": {
+            "name": "attack"
+        }
+    },
+    {
+        "name": "modest",
+        "increased": {
+            "name": "special-attack"
+        },
+        "decreased": {
+            "name": "attack"
+        }
+    },
+    {
+        "name": "calm",
+        "increased": {
+            "name": "special-defense"
+        },
+        "decreased": {
+            "name": "attack"
+        }
+    },
+    {
+        "name": "timid",
+        "increased": {
+            "name": "speed"
+        },
+        "decreased": {
+            "name": "attack"
+        }
+    },
+    {
+        "name": "lonely",
+        "increased": {
+            "name": "attack"
+        },
+        "decreased": {
+            "name": "defense"
+        }
+    },
+    {
+        "name": "docile",
+        "increased": null,
+        "decreased": null
+    },
+    {
+        "name": "mild",
+        "increased": {
+            "name": "special-attack"
+        },
+        "decreased": {
+            "name": "defense"
+        }
+    },
+    {
+        "name": "gentle",
+        "increased": {
+            "name": "special-defense"
+        },
+        "decreased": {
+            "name": "defense"
+        }
+    },
+    {
+        "name": "hasty",
+        "increased": {
+            "name": "speed"
+        },
+        "decreased": {
+            "name": "defense"
+        }
+    },
+    {
+        "name": "adamant",
+        "increased": {
+            "name": "attack"
+        },
+        "decreased": {
+            "name": "special-attack"
+        }
+    },
+    {
+        "name": "impish",
+        "increased": {
+            "name": "defense"
+        },
+        "decreased": {
+            "name": "special-attack"
+        }
+    },
+    {
+        "name": "bashful",
+        "increased": null,
+        "decreased": null
+    },
+    {
+        "name": "careful",
+        "increased": {
+            "name": "special-defense"
+        },
+        "decreased": {
+            "name": "special-attack"
+        }
+    },
+    {
+        "name": "rash",
+        "increased": {
+            "name": "special-attack"
+        },
+        "decreased": {
+            "name": "special-defense"
+        }
+    },
+    {
+        "name": "jolly",
+        "increased": {
+            "name": "speed"
+        },
+        "decreased": {
+            "name": "special-attack"
+        }
+    },
+    {
+        "name": "naughty",
+        "increased": {
+            "name": "attack"
+        },
+        "decreased": {
+            "name": "special-defense"
+        }
+    },
+    {
+        "name": "lax",
+        "increased": {
+            "name": "defense"
+        },
+        "decreased": {
+            "name": "special-defense"
+        }
+    },
+    {
+        "name": "quirky",
+        "increased": null,
+        "decreased": null
+    },
+    {
+        "name": "naive",
+        "increased": {
+            "name": "speed"
+        },
+        "decreased": {
+            "name": "special-defense"
+        }
+    },
+    {
+        "name": "brave",
+        "increased": {
+            "name": "attack"
+        },
+        "decreased": {
+            "name": "speed"
+        }
+    },
+    {
+        "name": "relaxed",
+        "increased": {
+            "name": "defense"
+        },
+        "decreased": {
+            "name": "speed"
+        }
+    },
+    {
+        "name": "quiet",
+        "increased": {
+            "name": "special-attack"
+        },
+        "decreased": {
+            "name": "speed"
+        }
+    },
+    {
+        "name": "sassy",
+        "increased": {
+            "name": "special-defense"
+        },
+        "decreased": {
+            "name": "speed"
+        }
+    },
+    {
+        "name": "serious",
+        "increased": null,
+        "decreased": null
+    }
+]

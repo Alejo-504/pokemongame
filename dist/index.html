@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><!--[if IE]><link rel="icon" href="/favicon.ico" /><![endif]--><meta name="theme-color" content="#055756"><script>function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min)) + min;
+      }
+      function out(...text) {
+        for (let i in text) {
+          //capturar el color que esta entre el # y el ; incluso si esta escrito el nombre del color y luegoenviar el mensaje por consola quitando el color del texto
+          let flat_pallete = [
+            "#e74c3c",
+            "#3498db",
+            "#2ecc71",
+            "#f1c40f",
+            "#8e44ad",
+            "#e67e22",
+          ];
+          //elegir un color al azar
+          let color = flat_pallete[getRandomInt(0, flat_pallete.length)];
+
+          //enviar mensjae por console.log y pintar el texto con el color que selecciono
+          console.log("%c" + text[i], "color:" + color + "; font-size:12px;");
+        }
+      }
+      function cssApply(el, css, time = null, fn = null) {
+        let mls = time / 1000;
+        if (time == null) {
+          for (let i in css) {
+            el.style[i] = css[i];
+          }
+        } else {
+          el.style.transition = "all ." + mls + "s ease-in-out";
+          for (let i in css) {
+            el.style[i] = css[i];
+          }
+          let timeout;
+          new Promise(async function (res, rej) {
+            timeout = await setTimeout(() => {
+              if (fn) {
+                fn();
+                res();
+              } else {
+                res();
+              }
+            }, time);
+          }).then(function (res) {
+            clearTimeout(timeout);
+          });
+        }
+      }
+      function getBase64Image(img) {
+        var canvas = document.createElement("canvas");
+        canvas.width = img.width;
+        canvas.height = img.height;
+        var ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0);
+        var dataURL = canvas.toDataURL("image/png");
+        return dataURL.replace(/^data:image\/(png|jpg);base64,/, "");
+      }</script><title>pokemon-online</title><link href="/css/game.6af690d4.css" rel="prefetch"><link href="/js/game.9553117b.js" rel="prefetch"><link href="/css/app.8c0a4253.css" rel="preload" as="style"><link href="/css/chunk-vendors.29a82bd2.css" rel="preload" as="style"><link href="/js/app.6d471ffc.js" rel="preload" as="script"><link href="/js/chunk-vendors.69ecc1bc.js" rel="preload" as="script"><link href="/css/chunk-vendors.29a82bd2.css" rel="stylesheet"><link href="/css/app.8c0a4253.css" rel="stylesheet"><link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png"><link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#4DBA87"><meta name="apple-mobile-web-app-capable" content="no"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="pokemon-online"><link rel="apple-touch-icon" href="/img/icons/apple-touch-icon-152x152.png"><link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#4DBA87"><meta name="msapplication-TileImage" content="/img/icons/msapplication-icon-144x144.png"><meta name="msapplication-TileColor" content="#000000"></head><body onload="" oncontextmenu="()=> false"><sound class="background-sound" src=""></sound><noscript><strong>We're sorry but pokemon-online doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div><script src="/js/chunk-vendors.69ecc1bc.js"></script><script src="/js/app.6d471ffc.js"></script></body></html>

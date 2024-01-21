@@ -1,0 +1,31 @@
+{
+  "pokemon-to-start": {
+    "list": [
+      {
+        "pokemon": 234,
+        "level": 10
+      },
+      "blissey",
+      [800, 30],
+      [357, 10],
+      "pikachu",
+      342,
+      343,
+      565,
+      456,
+      76,
+      34,
+      676,
+      86
+    ],
+    "amount": 1
+  },
+  "coins": 2000,
+  "default-user-sprite": 4,
+  "storage-pokemon-space": 15,
+  "teams": [
+    {
+      "name": "Team "
+    }
+  ]
+}

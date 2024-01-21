@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Latinoamerica",
+    "max-user": 100,
+    "lang": "es"
+  },
+  {
+    "title": "Europe",
+    "max-user": 100,
+    "lang": "en"
+  }
+]

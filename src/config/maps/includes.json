@@ -1,0 +1,111 @@
+{
+  "arbustos": {
+    "src": "arbustos1.svg",
+    "cell": "1x1",
+    "size": {
+      "width": 35,
+      "height": 35
+    },
+    "show-above-sprite": false,
+    "speed-sprite": 150,
+    "collision": false,
+    "events": [
+      {
+        "name": "spriteenter",
+        "actions": {
+          "sound": "arbustos3.mp3",
+          "Battle": [0.1]
+        }
+      }
+    ]
+  },
+  "pikachu": {
+    "src": "pika.gif",
+    "cell": "2x2",
+    "size": {
+      "width": 45,
+      "height": 45
+    },
+    "show-above-sprite": false,
+    "speed-sprite": 100,
+    "collision": true,
+    "events": [
+      {
+        "name": "spritearound",
+        "actions": {
+          "contextmenu": {
+            "Battle": [
+              1,
+              [
+                { "name": "onix", "level": 45 },
+                { "name": "onix", "level": 55 }
+              ]
+            ],
+            "Talk": "Pika Pika"
+          }
+        }
+      }
+    ]
+  },
+
+  "pisadas-en-agua": {
+    "cell": "1x1",
+    "speed-sprite": 150,
+    "collision": false,
+    "battle": "",
+    "events": [
+      {
+        "name": "spriteenter",
+        "actions": {
+          "sound": "pisada-agua.mp3",
+          "battle": [0.2]
+        }
+      }
+    ]
+  },
+  "portal-sound": {
+    "cell": "1x1",
+    "speed-sprite": 210,
+    "collision": false,
+    "size": {
+      "width": 75,
+      "height": 75
+    },
+    "events": [
+      {
+        "name": "spriteenter",
+        "actions": {
+          "sound": "portal1.mp3",
+          "enter": 0
+        }
+      }
+    ]
+  },
+  "portal-sound-2": {
+    "cell": "1x1",
+    "speed-sprite": 210,
+    "collision": true,
+    "size": {
+      "width": 75,
+      "height": 75
+    },
+    "events": [
+      {
+        "name": "spritearound",
+        "actions": {
+          "contextmenu": { "Entrar": { "enter": 0, "sound": "portal1.mp3" } }
+        }
+      }
+    ]
+  },
+  "portal": {
+    "src": "portal.gif",
+    "cell": "1x1",
+    "speed-sprite": 210,
+    "collision": false,
+    "size": {
+      "width": 75,
+      "height": 75
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "0.png",
+        "required": {
+            "trainerLevel" : 5
+        }
+    },
+    {
+        "name": "1.png",
+        "required": {
+            "trainerLevel" : 7
+        }
+    },
+    {
+        "name": "2.png"
+    },
+    {
+        "name": "3.png"
+    },
+    {
+        "name": "4.png"
+    }
+]

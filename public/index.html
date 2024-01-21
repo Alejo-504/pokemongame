@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <meta name="theme-color" content="#055756" />
+    <script>
+      function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min)) + min;
+      }
+      function out(...text) {
+        for (let i in text) {
+          //capturar el color que esta entre el # y el ; incluso si esta escrito el nombre del color y luegoenviar el mensaje por consola quitando el color del texto
+          let flat_pallete = [
+            "#e74c3c",
+            "#3498db",
+            "#2ecc71",
+            "#f1c40f",
+            "#8e44ad",
+            "#e67e22",
+          ];
+          //elegir un color al azar
+          let color = flat_pallete[getRandomInt(0, flat_pallete.length)];
+
+          //enviar mensjae por console.log y pintar el texto con el color que selecciono
+          console.log("%c" + text[i], "color:" + color + "; font-size:12px;");
+        }
+      }
+      function cssApply(el, css, time = null, fn = null) {
+        let mls = time / 1000;
+        if (time == null) {
+          for (let i in css) {
+            el.style[i] = css[i];
+          }
+        } else {
+          el.style.transition = "all ." + mls + "s ease-in-out";
+          for (let i in css) {
+            el.style[i] = css[i];
+          }
+          let timeout;
+          new Promise(async function (res, rej) {
+            timeout = await setTimeout(() => {
+              if (fn) {
+                fn();
+                res();
+              } else {
+                res();
+              }
+            }, time);
+          }).then(function (res) {
+            clearTimeout(timeout);
+          });
+        }
+      }
+      function getBase64Image(img) {
+        var canvas = document.createElement("canvas");
+        canvas.width = img.width;
+        canvas.height = img.height;
+        var ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0);
+        var dataURL = canvas.toDataURL("image/png");
+        return dataURL.replace(/^data:image\/(png|jpg);base64,/, "");
+      }
+    </script>
+
+    <title><%= htmlWebpackPlugin.options.title %></title>
+  </head>
+  <body onload="" oncontextmenu="()=> false">
+    <sound class="background-sound" src=""></sound>
+    <noscript>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work
+        properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+  </body>
+</html>

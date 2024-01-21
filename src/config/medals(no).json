@@ -1,0 +1,31 @@
+[
+    {
+        "name": "BEGINNERS LUCK",
+        "required":{
+            "win": 5,
+            "win_in_a_row": 2
+        },
+        "src":"default.png"
+    },
+    {
+        "name": "LUCKY TRAINER",
+        "required":{
+            "win": 1,
+            "win_in_a_row": 2
+        }
+    },
+    {
+        "name": "ROBOCOT",
+        "required":{
+            "win": 2,
+            "win_in_a_row": 3
+        }
+    },
+    {
+        "name": "SUPERMAN",
+        "required":{
+            "win_in_a_row": 3,
+            "win":10
+        }
+    }
+]

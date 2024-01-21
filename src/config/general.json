@@ -1,0 +1,18 @@
+{
+  "levelup-trainer-alert": false,
+  "ui-register-select-sprite": true,
+  "ui-trainer-info-select-sprite": true,
+  "grid-view-in-map": false,
+  "grid-view-tile-size": 30,
+  "sprite-speed": 100,
+  "cloud-messages-time": 4,
+  "show-cloud-messages": true,
+  "memory-position": true,
+  "show-disconnection-message": true,
+  "show-connection-message": true,
+  "default-map": 0,
+  "minutes-for-inactivity": 5,
+  "minutes-the-inactivity-for-disconnect": 5,
+  "persistent-session": true,
+  "sound-background": "opening.mp3"
+}
