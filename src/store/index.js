@@ -5,7 +5,7 @@ import { alertiw } from "@/components/globals/scripts/AlertIw";
 import { io } from "socket.io-client";
 import router from "@/router";
 import generalconfig from "@/config/general.json";
-const server = "https://pokemon-v2-dev12.com";
+const server = "https://65ac644f5fea04fa3880752f--majestic-buttercream-f5941d.netlify.app";
 const restApi = "https://pokemonapirest-dev-gxsb.3.us-1.fl0.io/";
 const minutesForInactivity = generalconfig["minutes-for-inactivity"];
 const minutesTheInactivityForDisconnect =
